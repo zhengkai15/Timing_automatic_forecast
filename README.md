@@ -1,0 +1,1 @@
+# Timing automatic forcast for FuXi weather models

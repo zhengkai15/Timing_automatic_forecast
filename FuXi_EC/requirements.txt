@@ -1,0 +1,3 @@
+onnxruntime=2.1.5
+pygrib=2.1.5
+oss2=2.16.2
